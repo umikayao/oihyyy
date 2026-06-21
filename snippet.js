@@ -1,6 +1,6 @@
-const UUID="06b65903-406d-4a41-8463-6fd5c0ee7798";
-const WP="123456";
-const SUB_PWD="123456";
+const UUID="92e3bd3d-7731-46ca-b4dd-77093084e79b";
+const WP="xushiyu";
+const SUB_PWD="xushiyu";
 let PIP="Pro"+"xyIP.US."+"cm"+"liussss.net";
 let SUB="https://owo.o00o.ooo/";
 const PC="https://kaic.hidns.co/";
