@@ -1,4 +1,4 @@
-const UUID="80239d62-3f16-4c60-acd3-03dfb9e21056";
+const UUID="87f063f1-b4aa-47f6-9afd-048ee20f36ea";
 const WP="xushiyu";
 const SUB_PWD="xushiyu";
 let PIP="Pro"+"xyIP.US."+"cm"+"liussss.net";
